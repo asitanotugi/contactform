@@ -1,0 +1,42 @@
+body{
+    font-family: sans-serif;
+}
+h1{
+    border-left: 5px solid orangered;
+    background-color:whitesmoke;
+    font-size: 20px;
+    padding-left: 10px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    width:500px;
+}
+.confirm{
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid gainsboro;
+    margin: 0 auto;
+    width: 450px;
+    padding: 20px 20px 60px 20px;
+}
+
+form{
+    float:left;
+    margin-right: 15px;
+}
+
+.button1{
+    border: 1px solid lightgray;
+    color: white;
+    background-color: gainsboro;
+    border-radius: 5px;
+    border-bottom: 1px solid gray;
+}
+
+.button2{
+    border: 1px solid lightgray;
+    color: white;
+    background-color: darkorange;
+    border-radius: 5px;
+    border-bottom: 1px solid tomato;
+}

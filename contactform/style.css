@@ -1,0 +1,41 @@
+body{
+    font-family: sans-serif;
+}
+
+h1{
+    border-left: 5px solid orangered;
+    background-color:whitesmoke;
+    font-size: 20px;
+    padding-left: 10px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    width:500px;
+}
+.content{
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid gainsboro;
+    margin: 0 auto;
+    width: 450px;
+    padding: 20px 20px 50px 20px;
+}
+
+.submit{
+    background-color: lightgray;
+    color: white;
+    border:1px solid lightgray;
+    border-radius: 5px;
+    border-bottom: 1px solid gray;
+}
+.box2{
+    border:1px solid lightgray;
+    border-radius: 5px;
+    color:gray;
+}
+.box{
+    color:  gray;
+}
+.option{
+    color: gray;
+}
